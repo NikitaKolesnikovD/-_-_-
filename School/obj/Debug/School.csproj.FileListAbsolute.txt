@@ -1,0 +1,16 @@
+D:\sssssss\ЕТ_Колесников_Ревунов\School\bin\Debug\School.exe.config
+D:\sssssss\ЕТ_Колесников_Ревунов\School\bin\Debug\School.exe
+D:\sssssss\ЕТ_Колесников_Ревунов\School\bin\Debug\School.pdb
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.csproj.AssemblyReference.cache
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.csproj.SuggestedBindingRedirects.cache
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\MainWindow.g.cs
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\App.g.cs
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School_MarkupCompile.cache
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School_MarkupCompile.lref
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\MainWindow.baml
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.g.resources
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.Properties.Resources.resources
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.exe
+D:\sssssss\ЕТ_Колесников_Ревунов\School\obj\Debug\School.pdb
